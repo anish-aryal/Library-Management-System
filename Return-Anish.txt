@@ -1,0 +1,9 @@
+                Library Management System 
+                   Returned By: Anish
+    Date: 2021-09-10    Time:15:00:09.457340
+
+S.N.		Bookname		Cost
+1		Harry Potter		$2
+2		Start With Why		$1.5
+					Fine: $4
+					Total: $7.5
